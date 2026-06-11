@@ -1,0 +1,50 @@
+{
+  "npi": "1104130236",
+  "enumeration_type": "NPI-1",
+  "entity": "individual",
+  "status": "A",
+  "name_prefix": "Mrs.",
+  "first_name": "SHELLEY",
+  "middle_name": "ANNE",
+  "last_name": "AKEY",
+  "credential": "RN, NNP",
+  "sex": "F",
+  "sole_proprietor": "NO",
+  "enumeration_date": "2010-07-30",
+  "last_updated": "2025-03-03",
+  "certification_date": "2025-03-03",
+  "primary_taxonomy_code": "363LN0000X",
+  "primary_taxonomy_desc": "Nurse Practitioner, Neonatal",
+  "primary_taxonomy_license": "AP3827",
+  "primary_taxonomy_state": "AZ",
+  "taxonomies": [
+    {
+      "code": "363LN0000X",
+      "desc": "Nurse Practitioner, Neonatal",
+      "license": "AP3827",
+      "primary": true,
+      "state": "AZ"
+    },
+    {
+      "code": "363LN0000X",
+      "desc": "Nurse Practitioner, Neonatal",
+      "license": "NP95027144",
+      "primary": false,
+      "state": "CA"
+    }
+  ],
+  "location_address_1": "1919 E THOMAS RD",
+  "location_city": "PHOENIX",
+  "location_state": "AZ",
+  "location_postal_code": "850167710",
+  "location_phone": "602-933-6345",
+  "mailing_address_1": "1919 E THOMAS RD",
+  "mailing_city": "PHOENIX",
+  "mailing_state": "AZ",
+  "mailing_postal_code": "850167710",
+  "mailing_phone": "602-933-1814",
+  "mailing_fax": "602-266-3481",
+  "other_names": [
+    { "first_name": "SHELLEY", "last_name": "SMITH", "type": "Former Name" }
+  ]
+}
