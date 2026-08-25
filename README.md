@@ -2,13 +2,13 @@
 
 NPI lookup API over the CMS NPPES registry. Give it an NPI number, a name, a taxonomy, or a city/state and you get back flat, normalized US healthcare provider records. No key. No raw NPPES nesting to untangle. Runs as a standby HTTP API for single lookups and as a batch actor for big pulls.
 
-[![no API key](https://img.shields.io/badge/API_key-not_required-2ea44f?style=flat-square)](https://apify.com/george.the.developer/npi-provider-lookup?source=github-npi)
-[![mode](https://img.shields.io/badge/mode-standby_%2B_batch-blue?style=flat-square)](https://apify.com/george.the.developer/npi-provider-lookup?source=github-npi)
-[![pricing](https://img.shields.io/badge/pricing-pay_per_event-orange?style=flat-square)](https://apify.com/george.the.developer/npi-provider-lookup?source=github-npi)
+[![no API key](https://img.shields.io/badge/API_key-not_required-2ea44f?style=flat-square)](https://apify.com/george.the.developer/npi-provider-lookup?fpr=bbquoh?source=github-npi)
+[![mode](https://img.shields.io/badge/mode-standby_%2B_batch-blue?style=flat-square)](https://apify.com/george.the.developer/npi-provider-lookup?fpr=bbquoh?source=github-npi)
+[![pricing](https://img.shields.io/badge/pricing-pay_per_event-orange?style=flat-square)](https://apify.com/george.the.developer/npi-provider-lookup?fpr=bbquoh?source=github-npi)
 [![data source](https://img.shields.io/badge/source-CMS_NPPES-005ea2?style=flat-square)](https://npiregistry.cms.hhs.gov/)
 [![license](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)](LICENSE)
 
-This repo is the docs and example payloads. The actor itself lives on Apify Store: **[george.the.developer/npi-provider-lookup](https://apify.com/george.the.developer/npi-provider-lookup?source=github-npi)**.
+This repo is the docs and example payloads. The actor itself lives on Apify Store: **[george.the.developer/npi-provider-lookup](https://apify.com/george.the.developer/npi-provider-lookup?fpr=bbquoh?source=github-npi)**.
 
 ---
 
@@ -247,6 +247,6 @@ NPI data is the public CMS provider directory published by federal law; no patie
 
 ---
 
-Built it because every healthcare data project I touched rebuilt the same NPPES flattening. Try it: **[NPI Provider Lookup on Apify Store](https://apify.com/george.the.developer/npi-provider-lookup?source=github-npi)**.
+Built it because every healthcare data project I touched rebuilt the same NPPES flattening. Try it: **[NPI Provider Lookup on Apify Store](https://apify.com/george.the.developer/npi-provider-lookup?fpr=bbquoh?source=github-npi)**.
 
 Keywords: NPI lookup API, NPPES API, healthcare provider lookup, NPI number search, provider taxonomy lookup, NPI registry API, physician NPI data, provider enrichment, healthcare provider data API.
